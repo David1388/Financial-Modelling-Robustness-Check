@@ -1,0 +1,27 @@
+##Run from top to bottom##
+
+No need to run
+KDE_model.py
+LSTM_model.py
+Reb_model.py
+sigmamodels.py
+models_task3.py
+LSTMML.py（6 Minutes）- training LSTM model
+
+Need to run
+Kernel Density Estimation and Monte-Carlo simulation
+	KDEMCV1.py (4 Minutes)
+Long Short-Term Memory(LSTM)
+	Forecast.py (2 Minutes)-Use the trained model to make predictions
+LSTM Model Accuracy
+	Evaluate.py (<1 Minutes)-RMSE and R2
+Rebalance
+	Rebalance_Min_Variance.py (8 Minutes)
+	Rebalance_Max_Sharpe.py (8 Minutes)
+	Rebalance_Steepest_Descent.py (4 Minutes)
+Analyze the potential impact of economic downturns or volatility shocks
+	KLCIsigma.py (<1 Minutes)
+	Johnsonsu.py (<1 Minutes)
+	JohnsonSumc.py (<1 Minutes)
+Actual value for the next 4 months
+	real_portfolio.py (<1 Minutes)
